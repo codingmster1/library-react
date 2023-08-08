@@ -392,12 +392,12 @@ FEATURES
   width: 100%;
   max-width: 250px;
   height: 320px;
-  background-color: rgb(204, 204, 204);
+  background-color: rgba(245, 238, 225);
   margin-bottom: 8px;
 }
 
 .skeleton {
-  background-color: rgb(227, 227, 227) !important;
+  background-color: rgba(245, 238, 225) !important;
   margin-bottom: 8px;
 }
 
