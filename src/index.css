@@ -60,9 +60,10 @@ li {
 }
 
 h1 {
-  font-size: 56px;
+  font-size: 44px;
   color: rgb(212, 146, 21);
-  margin-bottom: 24px;
+  margin-bottom: 28px;
+  margin-top: 24px;
   text-align: center;
 }
 
@@ -777,11 +778,11 @@ select {
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 20px;
   }
 
   button {
