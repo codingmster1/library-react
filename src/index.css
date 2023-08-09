@@ -34,6 +34,7 @@ nav {
 img {
   height: 100%;
   width: 100%;
+  /*max-height: 40vh;*/
 }
 
 p {
@@ -147,7 +148,7 @@ button:active {
 }
 
 .cart__length {
-  background-color: rgb(240, 49, 42);
+  background-color: rgb(228, 31, 24);
   color: rgb(241, 235, 235);
   width: 18px;
   height: 18px;
@@ -788,6 +789,7 @@ select {
   button {
     font-size: 18px;
   }
+  
 
   .book {
     width: 50%;
